@@ -1,0 +1,1804 @@
+[
+    {
+        "id": "001",
+        "title": "Hoots",
+        "performer_full_info": "Marta Vist Suure-Jaani (1961)",
+        "performer_name": "Marta Vist",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Marta-Vist",
+        "region": "Suure-Jaani",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/001-Huiked",
+        "local_files": {
+            "audio_ogg": "data/001_Hoots/001.ogg",
+            "notation": "data/001_Hoots/001_notation.png",
+            "audio_mp3": "data/001_Hoots/001.mp3"
+        }
+    },
+    {
+        "id": "002",
+        "title": "Shouts",
+        "performer_full_info": "Kadri Asu Kolga-Jaani (1937)",
+        "performer_name": "Kadri Asu",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Kadri-Asu",
+        "region": "Kolga-Jaani",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/002-Helletused",
+        "local_files": {
+            "audio_ogg": "data/002_Shouts/002.ogg",
+            "notation": "data/002_Shouts/002_notation.png",
+            "audio_mp3": "data/002_Shouts/002.mp3"
+        }
+    },
+    {
+        "id": "003",
+        "title": "Drive the Herd Over Here!",
+        "performer_full_info": "Anna Lindvere Kodavere (1938)",
+        "performer_name": "Anna Lindvere",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Anna-Lindvere",
+        "region": "Kodavere",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/003-Aja-kari-siia",
+        "local_files": {
+            "lyrics_estonian": "data/003_Drive_the_Herd_Over_Here!/lyrics_estonian.txt",
+            "audio_ogg": "data/003_Drive_the_Herd_Over_Here!/003.ogg",
+            "notation": "data/003_Drive_the_Herd_Over_Here!/003_notation.png",
+            "lyrics_english": "data/003_Drive_the_Herd_Over_Here!/lyrics_english.txt",
+            "audio_mp3": "data/003_Drive_the_Herd_Over_Here!/003.mp3"
+        }
+    },
+    {
+        "id": "004",
+        "title": "Drive the Herd Over Here!",
+        "performer_full_info": "Eleena Animägi Karksi (1960)",
+        "performer_name": "Eleena Animägi",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Eleena-Animagi",
+        "region": "Karksi",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/004-Aja-kari-siia",
+        "local_files": {
+            "lyrics_estonian": "data/004_Drive_the_Herd_Over_Here!/lyrics_estonian.txt",
+            "audio_ogg": "data/004_Drive_the_Herd_Over_Here!/004.ogg",
+            "notation": "data/004_Drive_the_Herd_Over_Here!/004_notation.png",
+            "lyrics_english": "data/004_Drive_the_Herd_Over_Here!/lyrics_english.txt",
+            "audio_mp3": "data/004_Drive_the_Herd_Over_Here!/004.mp3"
+        }
+    },
+    {
+        "id": "005",
+        "title": "Drive the Herd Over Here!",
+        "performer_full_info": "Helene Kukk Sangaste (1962)",
+        "performer_name": "Helene Kukk",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Helene-Kukk",
+        "region": "Sangaste",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/005-Aja-kari-siia",
+        "local_files": {
+            "lyrics_estonian": "data/005_Drive_the_Herd_Over_Here!/lyrics_estonian.txt",
+            "audio_ogg": "data/005_Drive_the_Herd_Over_Here!/005.ogg",
+            "notation": "data/005_Drive_the_Herd_Over_Here!/005_notation.png",
+            "lyrics_english": "data/005_Drive_the_Herd_Over_Here!/lyrics_english.txt",
+            "audio_mp3": "data/005_Drive_the_Herd_Over_Here!/005.mp3"
+        }
+    },
+    {
+        "id": "006",
+        "title": "Sun, Come On Out!",
+        "performer_full_info": "Greete Jents Karksi (1961)",
+        "performer_name": "Greete Jents",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Greete-Jents",
+        "region": "Karksi",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/006-Paike-tule-valja",
+        "local_files": {
+            "lyrics_estonian": "data/006_Sun,_Come_On_Out!/lyrics_estonian.txt",
+            "audio_ogg": "data/006_Sun,_Come_On_Out!/006.ogg",
+            "notation": "data/006_Sun,_Come_On_Out!/006_notation.png",
+            "lyrics_english": "data/006_Sun,_Come_On_Out!/lyrics_english.txt",
+            "audio_mp3": "data/006_Sun,_Come_On_Out!/006.mp3"
+        }
+    },
+    {
+        "id": "007",
+        "title": "The Herd Is Far Away",
+        "performer_full_info": "Anne Vabarna Setu (1959)",
+        "performer_name": "Anne Vabarna",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Anne-Vabarna",
+        "region": "Setu",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/007-Kari-kaugel",
+        "local_files": {
+            "lyrics_estonian": "data/007_The_Herd_Is_Far_Away/lyrics_estonian.txt",
+            "audio_ogg": "data/007_The_Herd_Is_Far_Away/007.ogg",
+            "notation": "data/007_The_Herd_Is_Far_Away/007_notation.png",
+            "lyrics_english": "data/007_The_Herd_Is_Far_Away/lyrics_english.txt",
+            "audio_mp3": "data/007_The_Herd_Is_Far_Away/007.mp3"
+        }
+    },
+    {
+        "id": "008",
+        "title": "Meadows for the Herds to Wander On",
+        "performer_full_info": "Marie Sepp Kolga-Jaani (1937)",
+        "performer_name": "Marie Sepp",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Marie-Sepp",
+        "region": "Kolga-Jaani",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/008-Valjad-karja-kaia",
+        "local_files": {
+            "audio_mp3": "data/008_Meadows_for_the_Herds_to_Wander_On/008.mp3",
+            "lyrics_estonian": "data/008_Meadows_for_the_Herds_to_Wander_On/lyrics_estonian.txt",
+            "audio_ogg": "data/008_Meadows_for_the_Herds_to_Wander_On/008.ogg",
+            "notation": "data/008_Meadows_for_the_Herds_to_Wander_On/008_notation.png",
+            "lyrics_english": "data/008_Meadows_for_the_Herds_to_Wander_On/lyrics_english.txt"
+        }
+    },
+    {
+        "id": "009",
+        "title": "Field for the Birds",
+        "performer_full_info": "Marie Helimets Karksi (1961)",
+        "performer_name": "Marie Helimets",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Marie-Helimets",
+        "region": "Karksi",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/009-Pold-lindudele",
+        "local_files": {
+            "lyrics_estonian": "data/009_Field_for_the_Birds/lyrics_estonian.txt",
+            "audio_mp3": "data/009_Field_for_the_Birds/009.mp3",
+            "audio_ogg": "data/009_Field_for_the_Birds/009.ogg",
+            "lyrics_english": "data/009_Field_for_the_Birds/lyrics_english.txt",
+            "notation": "data/009_Field_for_the_Birds/009_notation.png"
+        }
+    },
+    {
+        "id": "010",
+        "title": "Bidding Hands to Work",
+        "performer_full_info": "Anne Vabarna with choir, Setu (1936)",
+        "performer_name": "Anne Vabarna",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Anne-Vabarna",
+        "region": "with choir, Setu",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/010-Kate-kaskimine",
+        "local_files": {
+            "lyrics_estonian": "data/010_Bidding_Hands_to_Work/lyrics_estonian.txt",
+            "audio_ogg": "data/010_Bidding_Hands_to_Work/010.ogg",
+            "notation": "data/010_Bidding_Hands_to_Work/010_notation.png",
+            "lyrics_english": "data/010_Bidding_Hands_to_Work/lyrics_english.txt",
+            "audio_mp3": "data/010_Bidding_Hands_to_Work/010.mp3"
+        }
+    },
+    {
+        "id": "011",
+        "title": "Sizzle, Precious Sickle!",
+        "performer_full_info": "Pauline Vapper Muhu (1958)",
+        "performer_name": "Pauline Vapper",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Pauline-Vapper",
+        "region": "Muhu",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/011-Sirise-sirbikene",
+        "local_files": {
+            "lyrics_estonian": "data/011_Sizzle,_Precious_Sickle!/lyrics_estonian.txt",
+            "audio_ogg": "data/011_Sizzle,_Precious_Sickle!/011.ogg",
+            "notation": "data/011_Sizzle,_Precious_Sickle!/011_notation.png",
+            "lyrics_english": "data/011_Sizzle,_Precious_Sickle!/lyrics_english.txt",
+            "audio_mp3": "data/011_Sizzle,_Precious_Sickle!/011.mp3"
+        }
+    },
+    {
+        "id": "012",
+        "title": "Spill Me Your Milk, Dear Cow!",
+        "performer_full_info": "Helmi Ots Kaarma (1960)",
+        "performer_name": "Helmi Ots",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Helmi-Ots",
+        "region": "Kaarma",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/012-Sooru-lehmakene",
+        "local_files": {
+            "lyrics_estonian": "data/012_Spill_Me_Your_Milk,_Dear_Cow!/lyrics_estonian.txt",
+            "notation": "data/012_Spill_Me_Your_Milk,_Dear_Cow!/012_notation.png",
+            "audio_ogg": "data/012_Spill_Me_Your_Milk,_Dear_Cow!/012.ogg",
+            "lyrics_english": "data/012_Spill_Me_Your_Milk,_Dear_Cow!/lyrics_english.txt",
+            "audio_mp3": "data/012_Spill_Me_Your_Milk,_Dear_Cow!/012.mp3"
+        }
+    },
+    {
+        "id": "013",
+        "title": "Thicken, Precious Cream!",
+        "performer_full_info": "Liisa Kümmel Tori (1961)",
+        "performer_name": "Liisa Kümmel",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Liisa-Kummel",
+        "region": "Tori",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/013-Kokku-koorekene",
+        "local_files": {
+            "lyrics_estonian": "data/013_Thicken,_Precious_Cream!/lyrics_estonian.txt",
+            "audio_ogg": "data/013_Thicken,_Precious_Cream!/013.ogg",
+            "notation": "data/013_Thicken,_Precious_Cream!/013_notation.png",
+            "lyrics_english": "data/013_Thicken,_Precious_Cream!/lyrics_english.txt",
+            "audio_mp3": "data/013_Thicken,_Precious_Cream!/013.mp3"
+        }
+    },
+    {
+        "id": "014",
+        "title": "Cook, pot!",
+        "performer_full_info": "Liidia Kampus Kolga-Jaani (1961)",
+        "performer_name": "Liidia Kampus",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Liidia-Kampus",
+        "region": "Kolga-Jaani",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/014-Kee-pada",
+        "local_files": {
+            "lyrics_estonian": "data/014_Cook,_pot!/lyrics_estonian.txt",
+            "notation": "data/014_Cook,_pot!/014_notation.png",
+            "audio_ogg": "data/014_Cook,_pot!/014.ogg",
+            "lyrics_english": "data/014_Cook,_pot!/lyrics_english.txt",
+            "audio_mp3": "data/014_Cook,_pot!/014.mp3"
+        }
+    },
+    {
+        "id": "015",
+        "title": "Small Beer A-fermenting!",
+        "performer_full_info": "Selma Lätt Halliste (1966)",
+        "performer_name": "Selma Lätt",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Selma-Latt",
+        "region": "Halliste",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/015-Taar-hapnema",
+        "local_files": {
+            "lyrics_estonian": "data/015_Small_Beer_A-fermenting!/lyrics_estonian.txt",
+            "notation": "data/015_Small_Beer_A-fermenting!/015_notation.png",
+            "audio_ogg": "data/015_Small_Beer_A-fermenting!/015.ogg",
+            "audio_mp3": "data/015_Small_Beer_A-fermenting!/015.mp3",
+            "lyrics_english": "data/015_Small_Beer_A-fermenting!/lyrics_english.txt"
+        }
+    },
+    {
+        "id": "016",
+        "title": "Martinmas Song",
+        "performer_full_info": "Hindrek Tamm Jõelähtme (1937)",
+        "performer_name": "Hindrek Tamm",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Hindrek-Tamm",
+        "region": "Jõelähtme",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/016-Mardilaul",
+        "local_files": {
+            "lyrics_estonian": "data/016_Martinmas_Song/lyrics_estonian.txt",
+            "audio_ogg": "data/016_Martinmas_Song/016.ogg",
+            "notation": "data/016_Martinmas_Song/016_notation.png",
+            "lyrics_english": "data/016_Martinmas_Song/lyrics_english.txt",
+            "audio_mp3": "data/016_Martinmas_Song/016.mp3"
+        }
+    },
+    {
+        "id": "017",
+        "title": "St. Catherine's Day Song",
+        "performer_full_info": "Liisu Orik Tõstamaa (1938)",
+        "performer_name": "Liisu Orik",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Liisu-Orik",
+        "region": "Tõstamaa",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/017-Kadrilaul",
+        "local_files": {
+            "lyrics_estonian": "data/017_St._Catherine's_Day_Song/lyrics_estonian.txt",
+            "audio_ogg": "data/017_St._Catherine's_Day_Song/017.ogg",
+            "notation": "data/017_St._Catherine's_Day_Song/017_notation.png",
+            "lyrics_english": "data/017_St._Catherine's_Day_Song/lyrics_english.txt",
+            "audio_mp3": "data/017_St._Catherine's_Day_Song/017.mp3"
+        }
+    },
+    {
+        "id": "018",
+        "title": "St. Catherine's Day Song",
+        "performer_full_info": "Marie Helimets Karksi (1961)",
+        "performer_name": "Marie Helimets",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Marie-Helimets",
+        "region": "Karksi",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/018-Kadrilaul",
+        "local_files": {
+            "lyrics_estonian": "data/018_St._Catherine's_Day_Song/lyrics_estonian.txt",
+            "notation": "data/018_St._Catherine's_Day_Song/018_notation.png",
+            "audio_mp3": "data/018_St._Catherine's_Day_Song/018.mp3",
+            "audio_ogg": "data/018_St._Catherine's_Day_Song/018.ogg",
+            "lyrics_english": "data/018_St._Catherine's_Day_Song/lyrics_english.txt"
+        }
+    },
+    {
+        "id": "019",
+        "title": "Flax for the Sliders!",
+        "performer_full_info": "Liisa Kümmel Tori (1961)",
+        "performer_name": "Liisa Kümmel",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Liisa-Kummel",
+        "region": "Tori",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/019-Linad-liulaskjale",
+        "local_files": {
+            "lyrics_estonian": "data/019_Flax_for_the_Sliders!/lyrics_estonian.txt",
+            "notation": "data/019_Flax_for_the_Sliders!/019_notation.png",
+            "audio_mp3": "data/019_Flax_for_the_Sliders!/019.mp3",
+            "audio_ogg": "data/019_Flax_for_the_Sliders!/019.ogg",
+            "lyrics_english": "data/019_Flax_for_the_Sliders!/lyrics_english.txt"
+        }
+    },
+    {
+        "id": "020",
+        "title": "Flax for the Sliders!",
+        "performer_full_info": "Reet Sutt Kihnu (1937)",
+        "performer_name": "Reet Sutt",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Reet-Sutt",
+        "region": "Kihnu",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/020-Linad-liulaskjale",
+        "local_files": {
+            "audio_mp3": "data/020_Flax_for_the_Sliders!/020.mp3",
+            "lyrics_estonian": "data/020_Flax_for_the_Sliders!/lyrics_estonian.txt",
+            "notation": "data/020_Flax_for_the_Sliders!/020_notation.png",
+            "audio_ogg": "data/020_Flax_for_the_Sliders!/020.ogg",
+            "lyrics_english": "data/020_Flax_for_the_Sliders!/lyrics_english.txt"
+        }
+    },
+    {
+        "id": "021",
+        "title": "Come to the St. John's Bonfire!",
+        "performer_full_info": "Marie Sepp Kolga-Jaani (1937)",
+        "performer_name": "Marie Sepp",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Marie-Sepp",
+        "region": "Kolga-Jaani",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/021-Tulge-tuld-hoidma",
+        "local_files": {
+            "lyrics_estonian": "data/021_Come_to_the_St._John's_Bonfire!/lyrics_estonian.txt",
+            "audio_mp3": "data/021_Come_to_the_St._John's_Bonfire!/021.mp3",
+            "notation": "data/021_Come_to_the_St._John's_Bonfire!/021_notation.png",
+            "audio_ogg": "data/021_Come_to_the_St._John's_Bonfire!/021.ogg",
+            "lyrics_english": "data/021_Come_to_the_St._John's_Bonfire!/lyrics_english.txt"
+        }
+    },
+    {
+        "id": "022",
+        "title": "The Swing Wants Mittens",
+        "performer_full_info": "Mari Kilu and Liisu Tamp Jõelähtme (1936)",
+        "performer_name": "Mari Kilu",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Mari-Kilu",
+        "region": "and",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/022-Kiik-tahab-kindaid",
+        "local_files": {
+            "lyrics_estonian": "data/022_The_Swing_Wants_Mittens/lyrics_estonian.txt",
+            "audio_mp3": "data/022_The_Swing_Wants_Mittens/022.mp3",
+            "notation": "data/022_The_Swing_Wants_Mittens/022_notation.png",
+            "audio_ogg": "data/022_The_Swing_Wants_Mittens/022.ogg",
+            "lyrics_english": "data/022_The_Swing_Wants_Mittens/lyrics_english.txt"
+        }
+    },
+    {
+        "id": "023",
+        "title": "Timid on the Swing",
+        "performer_full_info": "Lisette Kautlenbach Järva-Madise (1965)",
+        "performer_name": "Lisette Kautlenbach",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Lisette-Kautlenbach",
+        "region": "Järva-Madise",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/023-Kiigel-kartlik",
+        "local_files": {
+            "lyrics_estonian": "data/023_Timid_on_the_Swing/lyrics_estonian.txt",
+            "audio_mp3": "data/023_Timid_on_the_Swing/023.mp3",
+            "notation": "data/023_Timid_on_the_Swing/023_notation.png",
+            "audio_ogg": "data/023_Timid_on_the_Swing/023.ogg",
+            "lyrics_english": "data/023_Timid_on_the_Swing/lyrics_english.txt"
+        }
+    },
+    {
+        "id": "024",
+        "title": "Timid on the Swing",
+        "performer_full_info": "Miina Lambot and Anna Paalberg Kuusalu (1938)",
+        "performer_name": "Miina Lambot",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Miina-Lambot",
+        "region": "and",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/024-Kiigel-kartlik",
+        "local_files": {
+            "lyrics_estonian": "data/024_Timid_on_the_Swing/lyrics_estonian.txt",
+            "audio_mp3": "data/024_Timid_on_the_Swing/024.mp3",
+            "notation": "data/024_Timid_on_the_Swing/024_notation.png",
+            "audio_ogg": "data/024_Timid_on_the_Swing/024.ogg",
+            "lyrics_english": "data/024_Timid_on_the_Swing/lyrics_english.txt"
+        }
+    },
+    {
+        "id": "025",
+        "title": "The Swing Wants Mittens",
+        "performer_full_info": "Marie Sepp Kolga-Jaani (1937)",
+        "performer_name": "Marie Sepp",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Marie-Sepp",
+        "region": "Kolga-Jaani",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/025-Kiik-tahab-kindaid",
+        "local_files": {
+            "lyrics_estonian": "data/025_The_Swing_Wants_Mittens/lyrics_estonian.txt",
+            "audio_mp3": "data/025_The_Swing_Wants_Mittens/025.mp3",
+            "notation": "data/025_The_Swing_Wants_Mittens/025_notation.png",
+            "audio_ogg": "data/025_The_Swing_Wants_Mittens/025.ogg",
+            "lyrics_english": "data/025_The_Swing_Wants_Mittens/lyrics_english.txt"
+        }
+    },
+    {
+        "id": "026",
+        "title": "Pretty Maid on the Swing",
+        "performer_full_info": "Mari Sarv Karksi (1938)",
+        "performer_name": "Mari Sarv",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Mari-Sarv",
+        "region": "Karksi",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/026-Ilus-neiu-kiigel",
+        "local_files": {
+            "lyrics_estonian": "data/026_Pretty_Maid_on_the_Swing/lyrics_estonian.txt",
+            "audio_mp3": "data/026_Pretty_Maid_on_the_Swing/026.mp3",
+            "audio_ogg": "data/026_Pretty_Maid_on_the_Swing/026.ogg",
+            "notation": "data/026_Pretty_Maid_on_the_Swing/026_notation.png",
+            "lyrics_english": "data/026_Pretty_Maid_on_the_Swing/lyrics_english.txt"
+        }
+    },
+    {
+        "id": "027",
+        "title": "The Swing Is in a Good Spot",
+        "performer_full_info": "Helene Kukk Sangaste (1962)",
+        "performer_name": "Helene Kukk",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Helene-Kukk",
+        "region": "Sangaste",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/027-Kiik-heas-kohas",
+        "local_files": {
+            "lyrics_estonian": "data/027_The_Swing_Is_in_a_Good_Spot/lyrics_estonian.txt",
+            "audio_mp3": "data/027_The_Swing_Is_in_a_Good_Spot/027.mp3",
+            "notation": "data/027_The_Swing_Is_in_a_Good_Spot/027_notation.png",
+            "audio_ogg": "data/027_The_Swing_Is_in_a_Good_Spot/027.ogg",
+            "lyrics_english": "data/027_The_Swing_Is_in_a_Good_Spot/lyrics_english.txt"
+        }
+    },
+    {
+        "id": "028",
+        "title": "Come, Sleep, onto the Child's Brow!",
+        "performer_full_info": "Anna Köster Kihnu (1959)",
+        "performer_name": "Anna Köster",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Anna-Koster",
+        "region": "Kihnu",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/028-Uni-tule-silma-peale",
+        "local_files": {
+            "lyrics_estonian": "data/028_Come,_Sleep,_onto_the_Child's_Brow!/lyrics_estonian.txt",
+            "notation": "data/028_Come,_Sleep,_onto_the_Child's_Brow!/028_notation.png",
+            "audio_ogg": "data/028_Come,_Sleep,_onto_the_Child's_Brow!/028.ogg",
+            "lyrics_english": "data/028_Come,_Sleep,_onto_the_Child's_Brow!/lyrics_english.txt",
+            "audio_mp3": "data/028_Come,_Sleep,_onto_the_Child's_Brow!/028.mp3"
+        }
+    },
+    {
+        "id": "029",
+        "title": "Let the Cradle Rock!",
+        "performer_full_info": "Anna Paalberg Kuusalu (1938)",
+        "performer_name": "Anna Paalberg",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Anna-Paalberg",
+        "region": "Kuusalu",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/029-Lase-kiik-kaia",
+        "local_files": {
+            "lyrics_estonian": "data/029_Let_the_Cradle_Rock!/lyrics_estonian.txt",
+            "notation": "data/029_Let_the_Cradle_Rock!/029_notation.png",
+            "audio_ogg": "data/029_Let_the_Cradle_Rock!/029.ogg",
+            "audio_mp3": "data/029_Let_the_Cradle_Rock!/029.mp3",
+            "lyrics_english": "data/029_Let_the_Cradle_Rock!/lyrics_english.txt"
+        }
+    },
+    {
+        "id": "030",
+        "title": "Servants of Slumber",
+        "performer_full_info": "Miina Lambot Kuusalu (1938)",
+        "performer_name": "Miina Lambot",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Miina-Lambot",
+        "region": "Kuusalu",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/030-Une-sulased",
+        "local_files": {
+            "lyrics_estonian": "data/030_Servants_of_Slumber/lyrics_estonian.txt",
+            "audio_mp3": "data/030_Servants_of_Slumber/030.mp3",
+            "notation": "data/030_Servants_of_Slumber/030_notation.png",
+            "audio_ogg": "data/030_Servants_of_Slumber/030.ogg",
+            "lyrics_english": "data/030_Servants_of_Slumber/lyrics_english.txt"
+        }
+    },
+    {
+        "id": "031",
+        "title": "Grew into a Herder!",
+        "performer_full_info": "Anne Vabarna Setu (1936)",
+        "performer_name": "Anne Vabarna",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Anne-Vabarna",
+        "region": "Setu",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/031-Kasva-karjaseks",
+        "local_files": {
+            "lyrics_estonian": "data/031_Grew_into_a_Herder!/lyrics_estonian.txt",
+            "audio_mp3": "data/031_Grew_into_a_Herder!/031.mp3",
+            "notation": "data/031_Grew_into_a_Herder!/031_notation.png",
+            "audio_ogg": "data/031_Grew_into_a_Herder!/031.ogg",
+            "lyrics_english": "data/031_Grew_into_a_Herder!/lyrics_english.txt"
+        }
+    },
+    {
+        "id": "032",
+        "title": "Riding to Riga",
+        "performer_full_info": "Ottilie Niinemägi Anna (1965)",
+        "performer_name": "Ottilie Niinemägi",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Ottilie-Niinemagi",
+        "region": "Anna",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/032-Soit-Riiga",
+        "local_files": {
+            "lyrics_estonian": "data/032_Riding_to_Riga/lyrics_estonian.txt",
+            "audio_mp3": "data/032_Riding_to_Riga/032.mp3",
+            "notation": "data/032_Riding_to_Riga/032_notation.png",
+            "audio_ogg": "data/032_Riding_to_Riga/032.ogg",
+            "lyrics_english": "data/032_Riding_to_Riga/lyrics_english.txt"
+        }
+    },
+    {
+        "id": "033",
+        "title": "The Titmouse",
+        "performer_full_info": "Selma Lätt Halliste (1966)",
+        "performer_name": "Selma Lätt",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Selma-Latt",
+        "region": "Halliste",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/033-Tihane",
+        "local_files": {
+            "lyrics_estonian": "data/033_The_Titmouse/lyrics_estonian.txt",
+            "audio_mp3": "data/033_The_Titmouse/033.mp3",
+            "audio_ogg": "data/033_The_Titmouse/033.ogg",
+            "notation": "data/033_The_Titmouse/033_notation.png",
+            "lyrics_english": "data/033_The_Titmouse/lyrics_english.txt"
+        }
+    },
+    {
+        "id": "034",
+        "title": "The Dog Goes to Keep the Herd",
+        "performer_full_info": "Selma Lätt Halliste (1966)",
+        "performer_name": "Selma Lätt",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Selma-Latt",
+        "region": "Halliste",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/034-Koer-laheb-karja",
+        "local_files": {
+            "audio_mp3": "data/034_The_Dog_Goes_to_Keep_the_Herd/034.mp3",
+            "lyrics_estonian": "data/034_The_Dog_Goes_to_Keep_the_Herd/lyrics_estonian.txt",
+            "notation": "data/034_The_Dog_Goes_to_Keep_the_Herd/034_notation.png",
+            "audio_ogg": "data/034_The_Dog_Goes_to_Keep_the_Herd/034.ogg",
+            "lyrics_english": "data/034_The_Dog_Goes_to_Keep_the_Herd/lyrics_english.txt"
+        }
+    },
+    {
+        "id": "035",
+        "title": "Animals at Work",
+        "performer_full_info": "Hella Keem Kanepi (1966)",
+        "performer_name": "Hella Keem",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Hella-Keem",
+        "region": "Kanepi",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/035-Loomad-tool",
+        "local_files": {
+            "lyrics_estonian": "data/035_Animals_at_Work/lyrics_estonian.txt",
+            "audio_mp3": "data/035_Animals_at_Work/035.mp3",
+            "notation": "data/035_Animals_at_Work/035_notation.png",
+            "audio_ogg": "data/035_Animals_at_Work/035.ogg",
+            "lyrics_english": "data/035_Animals_at_Work/lyrics_english.txt"
+        }
+    },
+    {
+        "id": "036",
+        "title": "Billy Goat Goes to the Pasture",
+        "performer_full_info": "Anna Lindvere Kodavere (1938)",
+        "performer_name": "Anna Lindvere",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Anna-Lindvere",
+        "region": "Kodavere",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/036-Kits-karja",
+        "local_files": {
+            "lyrics_estonian": "data/036_Billy_Goat_Goes_to_the_Pasture/lyrics_estonian.txt",
+            "audio_mp3": "data/036_Billy_Goat_Goes_to_the_Pasture/036.mp3",
+            "notation": "data/036_Billy_Goat_Goes_to_the_Pasture/036_notation.png",
+            "audio_ogg": "data/036_Billy_Goat_Goes_to_the_Pasture/036.ogg",
+            "lyrics_english": "data/036_Billy_Goat_Goes_to_the_Pasture/lyrics_english.txt"
+        }
+    },
+    {
+        "id": "037",
+        "title": "Ann Went to the Granary",
+        "performer_full_info": "Anne Vabarna Setu (1959)",
+        "performer_name": "Anne Vabarna",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Anne-Vabarna",
+        "region": "Setu",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/037-Ann-laks-aita",
+        "local_files": {
+            "lyrics_estonian": "data/037_Ann_Went_to_the_Granary/lyrics_estonian.txt",
+            "audio_mp3": "data/037_Ann_Went_to_the_Granary/037.mp3",
+            "notation": "data/037_Ann_Went_to_the_Granary/037_notation.png",
+            "audio_ogg": "data/037_Ann_Went_to_the_Granary/037.ogg",
+            "lyrics_english": "data/037_Ann_Went_to_the_Granary/lyrics_english.txt"
+        }
+    },
+    {
+        "id": "038",
+        "title": "Wirble-Warble",
+        "performer_full_info": "Julius Paas Hargla (1965)",
+        "performer_name": "Julius Paas",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Julius-Paas",
+        "region": "Hargla",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/038-Liiri-loori",
+        "local_files": {
+            "lyrics_estonian": "data/038_Wirble-Warble/lyrics_estonian.txt",
+            "audio_ogg": "data/038_Wirble-Warble/038.ogg",
+            "lyrics_english": "data/038_Wirble-Warble/lyrics_english.txt",
+            "audio_mp3": "data/038_Wirble-Warble/038.mp3",
+            "notation": "data/038_Wirble-Warble/038_notation.png"
+        }
+    },
+    {
+        "id": "039",
+        "title": "The Horsefly's Funeral",
+        "performer_full_info": "Anne Vabarna Setu (1959)",
+        "performer_name": "Anne Vabarna",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Anne-Vabarna",
+        "region": "Setu",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/039-Parmu-matus",
+        "local_files": {
+            "lyrics_estonian": "data/039_The_Horsefly's_Funeral/lyrics_estonian.txt",
+            "audio_ogg": "data/039_The_Horsefly's_Funeral/039.ogg",
+            "lyrics_english": "data/039_The_Horsefly's_Funeral/lyrics_english.txt",
+            "notation": "data/039_The_Horsefly's_Funeral/039_notation.png",
+            "audio_mp3": "data/039_The_Horsefly's_Funeral/039.mp3"
+        }
+    },
+    {
+        "id": "040",
+        "title": "Off to the Forest to Cut Wood",
+        "performer_full_info": "Maria Koert Mustjala (1961)",
+        "performer_name": "Maria Koert",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Maria-Koert",
+        "region": "Mustjala",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/040-Metsa-puid-raiuma",
+        "local_files": {
+            "lyrics_estonian": "data/040_Off_to_the_Forest_to_Cut_Wood/lyrics_estonian.txt",
+            "audio_mp3": "data/040_Off_to_the_Forest_to_Cut_Wood/040.mp3",
+            "notation": "data/040_Off_to_the_Forest_to_Cut_Wood/040_notation.png",
+            "lyrics_english": "data/040_Off_to_the_Forest_to_Cut_Wood/lyrics_english.txt",
+            "audio_ogg": "data/040_Off_to_the_Forest_to_Cut_Wood/040.ogg"
+        }
+    },
+    {
+        "id": "041",
+        "title": "Aulder-Maulder",
+        "performer_full_info": "Liisa Kümmel Tori (1961)",
+        "performer_name": "Liisa Kümmel",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Liisa-Kummel",
+        "region": "Tori",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/041-Onnimanni",
+        "local_files": {
+            "lyrics_estonian": "data/041_Aulder-Maulder/lyrics_estonian.txt",
+            "audio_mp3": "data/041_Aulder-Maulder/041.mp3",
+            "notation": "data/041_Aulder-Maulder/041_notation.png",
+            "lyrics_english": "data/041_Aulder-Maulder/lyrics_english.txt",
+            "audio_ogg": "data/041_Aulder-Maulder/041.ogg"
+        }
+    },
+    {
+        "id": "042",
+        "title": "The Maiden Is Not at Home",
+        "performer_full_info": "Miina Lambot and Anna Paalberg Kuusalu (1938)",
+        "performer_name": "Miina Lambot",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Miina-Lambot",
+        "region": "and",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/042-Neiut-pole-kodus",
+        "local_files": {
+            "lyrics_estonian": "data/042_The_Maiden_Is_Not_at_Home/lyrics_estonian.txt",
+            "audio_mp3": "data/042_The_Maiden_Is_Not_at_Home/042.mp3",
+            "notation": "data/042_The_Maiden_Is_Not_at_Home/042_notation.png",
+            "lyrics_english": "data/042_The_Maiden_Is_Not_at_Home/lyrics_english.txt",
+            "audio_ogg": "data/042_The_Maiden_Is_Not_at_Home/042.ogg"
+        }
+    },
+    {
+        "id": "043",
+        "title": "The Bride Leaves Her Father's Home",
+        "performer_full_info": "Miina Lambot and Anna Paalberg Kuusalu (1938)",
+        "performer_name": "Miina Lambot",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Miina-Lambot",
+        "region": "and",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/043-Noorik-lahkub-isakodunt",
+        "local_files": {
+            "lyrics_estonian": "data/043_The_Bride_Leaves_Her_Father's_Home/lyrics_estonian.txt",
+            "audio_mp3": "data/043_The_Bride_Leaves_Her_Father's_Home/043.mp3",
+            "notation": "data/043_The_Bride_Leaves_Her_Father's_Home/043_notation.png",
+            "lyrics_english": "data/043_The_Bride_Leaves_Her_Father's_Home/lyrics_english.txt",
+            "audio_ogg": "data/043_The_Bride_Leaves_Her_Father's_Home/043.ogg"
+        }
+    },
+    {
+        "id": "044",
+        "title": "A Bride Has to Be Conscientious",
+        "performer_full_info": "Maria Koert Mustjala (1961)",
+        "performer_name": "Maria Koert",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Maria-Koert",
+        "region": "Mustjala",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/044-Nooriku-virkuseopetus",
+        "local_files": {
+            "lyrics_estonian": "data/044_A_Bride_Has_to_Be_Conscientious/lyrics_estonian.txt",
+            "audio_mp3": "data/044_A_Bride_Has_to_Be_Conscientious/044.mp3",
+            "notation": "data/044_A_Bride_Has_to_Be_Conscientious/044_notation.png",
+            "lyrics_english": "data/044_A_Bride_Has_to_Be_Conscientious/lyrics_english.txt",
+            "audio_ogg": "data/044_A_Bride_Has_to_Be_Conscientious/044.ogg"
+        }
+    },
+    {
+        "id": "045",
+        "title": "When Are We Going to Get There? – Ride on This Way! – The Silken Ones Are Coming",
+        "performer_full_info": "Hendrik Jantson and Liisu Orik Tõstamaa (1938)",
+        "performer_name": "Hendrik Jantson",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Hendrik-Jantson",
+        "region": "and",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/045-Millal-saame-sinna-maale-Ajage-siia-Siidised-tulevad",
+        "local_files": {
+            "lyrics_estonian": "data/045_When_Are_We_Going_to_Get_There_–_Ride_on_This_Way!_–_The_Silken_Ones_Are_Coming/lyrics_estonian.txt",
+            "audio_mp3": "data/045_When_Are_We_Going_to_Get_There_–_Ride_on_This_Way!_–_The_Silken_Ones_Are_Coming/045.mp3",
+            "notation": "data/045_When_Are_We_Going_to_Get_There_–_Ride_on_This_Way!_–_The_Silken_Ones_Are_Coming/045_notation.png",
+            "lyrics_english": "data/045_When_Are_We_Going_to_Get_There_–_Ride_on_This_Way!_–_The_Silken_Ones_Are_Coming/lyrics_english.txt",
+            "audio_ogg": "data/045_When_Are_We_Going_to_Get_There_–_Ride_on_This_Way!_–_The_Silken_Ones_Are_Coming/045.ogg"
+        }
+    },
+    {
+        "id": "046",
+        "title": "Eat, Kinfolk!",
+        "performer_full_info": "Liina Irdt Tõstamaa (1965)",
+        "performer_name": "Liina Irdt",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Liina-Irdt",
+        "region": "Tõstamaa",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/046-Sooge-langud",
+        "local_files": {
+            "lyrics_estonian": "data/046_Eat,_Kinfolk!/lyrics_estonian.txt",
+            "audio_mp3": "data/046_Eat,_Kinfolk!/046.mp3",
+            "notation": "data/046_Eat,_Kinfolk!/046_notation.png",
+            "audio_ogg": "data/046_Eat,_Kinfolk!/046.ogg",
+            "lyrics_english": "data/046_Eat,_Kinfolk!/lyrics_english.txt"
+        }
+    },
+    {
+        "id": "047",
+        "title": "The Brother's Meadows",
+        "performer_full_info": "Kadri Kukk Karksi (1960)",
+        "performer_name": "Kadri Kukk",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Kadri-Kukk",
+        "region": "Karksi",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/047-Venna-nurmed",
+        "local_files": {
+            "lyrics_estonian": "data/047_The_Brother's_Meadows/lyrics_estonian.txt",
+            "notation": "data/047_The_Brother's_Meadows/047_notation.png",
+            "audio_mp3": "data/047_The_Brother's_Meadows/047.mp3",
+            "lyrics_english": "data/047_The_Brother's_Meadows/lyrics_english.txt",
+            "audio_ogg": "data/047_The_Brother's_Meadows/047.ogg"
+        }
+    },
+    {
+        "id": "048",
+        "title": "The Rich Man's Ox and the Poor Man's Crow",
+        "performer_full_info": "Helmi Vill Urvaste (1965)",
+        "performer_name": "Helmi Vill",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Helmi-Vill",
+        "region": "Urvaste",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/048-Rikka-harg-ja-vaese-vares",
+        "local_files": {
+            "lyrics_estonian": "data/048_The_Rich_Man's_Ox_and_the_Poor_Man's_Crow/lyrics_estonian.txt",
+            "audio_ogg": "data/048_The_Rich_Man's_Ox_and_the_Poor_Man's_Crow/048.ogg",
+            "audio_mp3": "data/048_The_Rich_Man's_Ox_and_the_Poor_Man's_Crow/048.mp3",
+            "notation": "data/048_The_Rich_Man's_Ox_and_the_Poor_Man's_Crow/048_notation.png",
+            "lyrics_english": "data/048_The_Rich_Man's_Ox_and_the_Poor_Man's_Crow/lyrics_english.txt"
+        }
+    },
+    {
+        "id": "049",
+        "title": "Better to Be on a Log than in Bed with a Young Man",
+        "performer_full_info": "Julius Paas Hargla (1965)",
+        "performer_name": "Julius Paas",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Julius-Paas",
+        "region": "Hargla",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/049-Parem-pakul-kui-peiu-sangis",
+        "local_files": {
+            "lyrics_estonian": "data/049_Better_to_Be_on_a_Log_than_in_Bed_with_a_Young_Man/lyrics_estonian.txt",
+            "audio_ogg": "data/049_Better_to_Be_on_a_Log_than_in_Bed_with_a_Young_Man/049.ogg",
+            "audio_mp3": "data/049_Better_to_Be_on_a_Log_than_in_Bed_with_a_Young_Man/049.mp3",
+            "lyrics_english": "data/049_Better_to_Be_on_a_Log_than_in_Bed_with_a_Young_Man/lyrics_english.txt",
+            "notation": "data/049_Better_to_Be_on_a_Log_than_in_Bed_with_a_Young_Man/049_notation.png"
+        }
+    },
+    {
+        "id": "050",
+        "title": "The Groom Is Brought to the Table",
+        "performer_full_info": "Anne Vabarna with choir, Setu (1936)",
+        "performer_name": "Anne Vabarna",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Anne-Vabarna",
+        "region": "with choir, Setu",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/050-Peigmees-tuuakse-laua-taha",
+        "local_files": {
+            "lyrics_estonian": "data/050_The_Groom_Is_Brought_to_the_Table/lyrics_estonian.txt",
+            "audio_mp3": "data/050_The_Groom_Is_Brought_to_the_Table/050.mp3",
+            "notation": "data/050_The_Groom_Is_Brought_to_the_Table/050_notation.png",
+            "lyrics_english": "data/050_The_Groom_Is_Brought_to_the_Table/lyrics_english.txt",
+            "audio_ogg": "data/050_The_Groom_Is_Brought_to_the_Table/050.ogg"
+        }
+    },
+    {
+        "id": "051",
+        "title": "Adorn Yourself, Brother!",
+        "performer_full_info": "Anne Vabarna with choir, Setu (1936)",
+        "performer_name": "Anne Vabarna",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Anne-Vabarna",
+        "region": "with choir, Setu",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/051-Ehi-veli",
+        "local_files": {
+            "lyrics_estonian": "data/051_Adorn_Yourself,_Brother!/lyrics_estonian.txt",
+            "audio_mp3": "data/051_Adorn_Yourself,_Brother!/051.mp3",
+            "notation": "data/051_Adorn_Yourself,_Brother!/051_notation.png",
+            "lyrics_english": "data/051_Adorn_Yourself,_Brother!/lyrics_english.txt",
+            "audio_ogg": "data/051_Adorn_Yourself,_Brother!/051.ogg"
+        }
+    },
+    {
+        "id": "052",
+        "title": "The Bride's Lament to Her Brother",
+        "performer_full_info": "Anne Vabarna with choir, Setu (1936)",
+        "performer_name": "Anne Vabarna",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Anne-Vabarna",
+        "region": "with choir, Setu",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/052-Morsja-itkeb-vennale",
+        "local_files": {
+            "lyrics_estonian": "data/052_The_Bride's_Lament_to_Her_Brother/lyrics_estonian.txt",
+            "notation": "data/052_The_Bride's_Lament_to_Her_Brother/052_notation.png",
+            "audio_mp3": "data/052_The_Bride's_Lament_to_Her_Brother/052.mp3",
+            "audio_ogg": "data/052_The_Bride's_Lament_to_Her_Brother/052.ogg",
+            "lyrics_english": "data/052_The_Bride's_Lament_to_Her_Brother/lyrics_english.txt"
+        }
+    },
+    {
+        "id": "053",
+        "title": "A Daughter Laments Her Mother",
+        "performer_full_info": "Anne Vabarna Setu (1936)",
+        "performer_name": "Anne Vabarna",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Anne-Vabarna",
+        "region": "Setu",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/053-Tutar-itkeb-ema",
+        "local_files": {
+            "lyrics_estonian": "data/053_A_Daughter_Laments_Her_Mother/lyrics_estonian.txt",
+            "notation": "data/053_A_Daughter_Laments_Her_Mother/053_notation.png",
+            "audio_mp3": "data/053_A_Daughter_Laments_Her_Mother/053.mp3",
+            "lyrics_english": "data/053_A_Daughter_Laments_Her_Mother/lyrics_english.txt",
+            "audio_ogg": "data/053_A_Daughter_Laments_Her_Mother/053.ogg"
+        }
+    },
+    {
+        "id": "054",
+        "title": "Maidens Lament Their Friend",
+        "performer_full_info": "Anne Vabarna with choir, Setu (1936)",
+        "performer_name": "Anne Vabarna",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Anne-Vabarna",
+        "region": "with choir, Setu",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/054-Neiud-itkevad-sopra",
+        "local_files": {
+            "lyrics_estonian": "data/054_Maidens_Lament_Their_Friend/lyrics_estonian.txt",
+            "audio_mp3": "data/054_Maidens_Lament_Their_Friend/054.mp3",
+            "notation": "data/054_Maidens_Lament_Their_Friend/054_notation.png",
+            "lyrics_english": "data/054_Maidens_Lament_Their_Friend/lyrics_english.txt",
+            "audio_ogg": "data/054_Maidens_Lament_Their_Friend/054.ogg"
+        }
+    },
+    {
+        "id": "055",
+        "title": "Sing!",
+        "performer_full_info": "Liisu Orik Tõstamaa (1965)",
+        "performer_name": "Liisu Orik",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Liisu-Orik",
+        "region": "Tõstamaa",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/055-Laula",
+        "local_files": {
+            "lyrics_estonian": "data/055_Sing!/lyrics_estonian.txt",
+            "notation": "data/055_Sing!/055_notation.png",
+            "audio_mp3": "data/055_Sing!/055.mp3",
+            "lyrics_english": "data/055_Sing!/lyrics_english.txt",
+            "audio_ogg": "data/055_Sing!/055.ogg"
+        }
+    },
+    {
+        "id": "056",
+        "title": "The Songster's Childhood",
+        "performer_full_info": "Hella Keem learned from Ann Rammo, Põlva (1966)",
+        "performer_name": "Hella Keem",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Hella-Keem",
+        "region": "learned from Ann Rammo, Põlva",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/056-Lauliku-lapsepoli",
+        "local_files": {
+            "lyrics_estonian": "data/056_The_Songster's_Childhood/lyrics_estonian.txt",
+            "audio_mp3": "data/056_The_Songster's_Childhood/056.mp3",
+            "notation": "data/056_The_Songster's_Childhood/056_notation.png",
+            "lyrics_english": "data/056_The_Songster's_Childhood/lyrics_english.txt",
+            "audio_ogg": "data/056_The_Songster's_Childhood/056.ogg"
+        }
+    },
+    {
+        "id": "057",
+        "title": "Songs Learned at Work",
+        "performer_full_info": "Marie Sepp Kolga-Jaani (1937)",
+        "performer_name": "Marie Sepp",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Marie-Sepp",
+        "region": "Kolga-Jaani",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/057-Laulud-tool-opitud",
+        "local_files": {
+            "lyrics_estonian": "data/057_Songs_Learned_at_Work/lyrics_estonian.txt",
+            "audio_mp3": "data/057_Songs_Learned_at_Work/057.mp3",
+            "notation": "data/057_Songs_Learned_at_Work/057_notation.png",
+            "lyrics_english": "data/057_Songs_Learned_at_Work/lyrics_english.txt",
+            "audio_ogg": "data/057_Songs_Learned_at_Work/057.ogg"
+        }
+    },
+    {
+        "id": "058",
+        "title": "The Sad Songster",
+        "performer_full_info": "Miina Lambot Kuusalu (1938)",
+        "performer_name": "Miina Lambot",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Miina-Lambot",
+        "region": "Kuusalu",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/058-Kurb-laulik",
+        "local_files": {
+            "lyrics_estonian": "data/058_The_Sad_Songster/lyrics_estonian.txt",
+            "audio_ogg": "data/058_The_Sad_Songster/058.ogg",
+            "notation": "data/058_The_Sad_Songster/058_notation.png",
+            "audio_mp3": "data/058_The_Sad_Songster/058.mp3",
+            "lyrics_english": "data/058_The_Sad_Songster/lyrics_english.txt"
+        }
+    },
+    {
+        "id": "059",
+        "title": "A Forest Stands between the Maidens",
+        "performer_full_info": "Greete Jents and Mari Sarv Karksi (1962)",
+        "performer_name": "Greete Jents",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Greete-Jents",
+        "region": "and",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/059-Mets-neidude-vahel",
+        "local_files": {
+            "lyrics_estonian": "data/059_A_Forest_Stands_between_the_Maidens/lyrics_estonian.txt",
+            "notation": "data/059_A_Forest_Stands_between_the_Maidens/059_notation.png",
+            "audio_ogg": "data/059_A_Forest_Stands_between_the_Maidens/059.ogg",
+            "audio_mp3": "data/059_A_Forest_Stands_between_the_Maidens/059.mp3",
+            "lyrics_english": "data/059_A_Forest_Stands_between_the_Maidens/lyrics_english.txt"
+        }
+    },
+    {
+        "id": "060",
+        "title": "Mother's Teachings",
+        "performer_full_info": "Kadri Kukk Karksi (1960)",
+        "performer_name": "Kadri Kukk",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Kadri-Kukk",
+        "region": "Karksi",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/060-Ema-opetus",
+        "local_files": {
+            "lyrics_estonian": "data/060_Mother's_Teachings/lyrics_estonian.txt",
+            "audio_ogg": "data/060_Mother's_Teachings/060.ogg",
+            "notation": "data/060_Mother's_Teachings/060_notation.png",
+            "audio_mp3": "data/060_Mother's_Teachings/060.mp3",
+            "lyrics_english": "data/060_Mother's_Teachings/lyrics_english.txt"
+        }
+    },
+    {
+        "id": "061",
+        "title": "The Cleanliness of the Vessels",
+        "performer_full_info": "Albert Lauri Anna (1965)",
+        "performer_name": "Albert Lauri",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Albert-Lauri",
+        "region": "Anna",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/061-Anumate-puhtus",
+        "local_files": {
+            "lyrics_estonian": "data/061_The_Cleanliness_of_the_Vessels/lyrics_estonian.txt",
+            "audio_ogg": "data/061_The_Cleanliness_of_the_Vessels/061.ogg",
+            "audio_mp3": "data/061_The_Cleanliness_of_the_Vessels/061.mp3",
+            "notation": "data/061_The_Cleanliness_of_the_Vessels/061_notation.png",
+            "lyrics_english": "data/061_The_Cleanliness_of_the_Vessels/lyrics_english.txt"
+        }
+    },
+    {
+        "id": "062",
+        "title": "I Know an Indifferent Maiden",
+        "performer_full_info": "Hella Keem learned from Ann Rammo, Põlva (1966)",
+        "performer_name": "Hella Keem",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Hella-Keem",
+        "region": "learned from Ann Rammo, Põlva",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/062-Tunnen-tuima-neiu",
+        "local_files": {
+            "lyrics_estonian": "data/062_I_Know_an_Indifferent_Maiden/lyrics_estonian.txt",
+            "audio_ogg": "data/062_I_Know_an_Indifferent_Maiden/062.ogg",
+            "notation": "data/062_I_Know_an_Indifferent_Maiden/062_notation.png",
+            "audio_mp3": "data/062_I_Know_an_Indifferent_Maiden/062.mp3",
+            "lyrics_english": "data/062_I_Know_an_Indifferent_Maiden/lyrics_english.txt"
+        }
+    },
+    {
+        "id": "063",
+        "title": "The Lying Groom",
+        "performer_full_info": "Kristjan Kiviloo Kuusalu (1962)",
+        "performer_name": "Kristjan Kiviloo",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Kristjan-Kiviloo",
+        "region": "Kuusalu",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/063-Petis-peiu",
+        "local_files": {
+            "lyrics_estonian": "data/063_The_Lying_Groom/lyrics_estonian.txt",
+            "audio_ogg": "data/063_The_Lying_Groom/063.ogg",
+            "notation": "data/063_The_Lying_Groom/063_notation.png",
+            "audio_mp3": "data/063_The_Lying_Groom/063.mp3",
+            "lyrics_english": "data/063_The_Lying_Groom/lyrics_english.txt"
+        }
+    },
+    {
+        "id": "064",
+        "title": "A Cabin for the Bride to Sleep In",
+        "performer_full_info": "Hella Keem learned from Miina Leht, Kanepi (1966)",
+        "performer_name": "Hella Keem",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Hella-Keem",
+        "region": "learned from Miina Leht, Kanepi",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/064-Ait-nooriku-magada",
+        "local_files": {
+            "lyrics_estonian": "data/064_A_Cabin_for_the_Bride_to_Sleep_In/lyrics_estonian.txt",
+            "audio_ogg": "data/064_A_Cabin_for_the_Bride_to_Sleep_In/064.ogg",
+            "notation": "data/064_A_Cabin_for_the_Bride_to_Sleep_In/064_notation.png",
+            "audio_mp3": "data/064_A_Cabin_for_the_Bride_to_Sleep_In/064.mp3",
+            "lyrics_english": "data/064_A_Cabin_for_the_Bride_to_Sleep_In/lyrics_english.txt"
+        }
+    },
+    {
+        "id": "065",
+        "title": "The Timid Suitor",
+        "performer_full_info": "Liisa Kümmel Tori (1961)",
+        "performer_name": "Liisa Kümmel",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Liisa-Kummel",
+        "region": "Tori",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/065-Arg-kosilane",
+        "local_files": {
+            "lyrics_estonian": "data/065_The_Timid_Suitor/lyrics_estonian.txt",
+            "audio_ogg": "data/065_The_Timid_Suitor/065.ogg",
+            "notation": "data/065_The_Timid_Suitor/065_notation.png",
+            "audio_mp3": "data/065_The_Timid_Suitor/065.mp3",
+            "lyrics_english": "data/065_The_Timid_Suitor/lyrics_english.txt"
+        }
+    },
+    {
+        "id": "066",
+        "title": "A Bird Came to Comfort Me",
+        "performer_full_info": "Hella Keem learned from Ann Ismael, Kanepi (1966)",
+        "performer_name": "Hella Keem",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Hella-Keem",
+        "region": "learned from Ann Ismael, Kanepi",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/066-Lind-lohutamas",
+        "local_files": {
+            "lyrics_estonian": "data/066_A_Bird_Came_to_Comfort_Me/lyrics_estonian.txt",
+            "audio_ogg": "data/066_A_Bird_Came_to_Comfort_Me/066.ogg",
+            "notation": "data/066_A_Bird_Came_to_Comfort_Me/066_notation.png",
+            "audio_mp3": "data/066_A_Bird_Came_to_Comfort_Me/066.mp3",
+            "lyrics_english": "data/066_A_Bird_Came_to_Comfort_Me/lyrics_english.txt"
+        }
+    },
+    {
+        "id": "067",
+        "title": "One's Own Mother and a Step Mother Wait at Home",
+        "performer_full_info": "Minna Kokk Hargla (1957)",
+        "performer_name": "Minna Kokk",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Minna-Kokk",
+        "region": "Hargla",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/067-Oma-ema-ja-voorasema-ootavad-koju",
+        "local_files": {
+            "audio_ogg": "data/067_One's_Own_Mother_and_a_Step_Mother_Wait_at_Home/067.ogg",
+            "lyrics_estonian": "data/067_One's_Own_Mother_and_a_Step_Mother_Wait_at_Home/lyrics_estonian.txt",
+            "notation": "data/067_One's_Own_Mother_and_a_Step_Mother_Wait_at_Home/067_notation.png",
+            "audio_mp3": "data/067_One's_Own_Mother_and_a_Step_Mother_Wait_at_Home/067.mp3",
+            "lyrics_english": "data/067_One's_Own_Mother_and_a_Step_Mother_Wait_at_Home/lyrics_english.txt"
+        }
+    },
+    {
+        "id": "068",
+        "title": "The Food of One's Own Mother and a Stepmother",
+        "performer_full_info": "Helmi Vill Urvaste (1965)",
+        "performer_name": "Helmi Vill",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Helmi-Vill",
+        "region": "Urvaste",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/068-Oma-ema-ja-voorasema-sook",
+        "local_files": {
+            "lyrics_estonian": "data/068_The_Food_of_One's_Own_Mother_and_a_Stepmother/lyrics_estonian.txt",
+            "notation": "data/068_The_Food_of_One's_Own_Mother_and_a_Stepmother/068_notation.png",
+            "audio_mp3": "data/068_The_Food_of_One's_Own_Mother_and_a_Stepmother/068.mp3",
+            "lyrics_english": "data/068_The_Food_of_One's_Own_Mother_and_a_Stepmother/lyrics_english.txt",
+            "audio_ogg": "data/068_The_Food_of_One's_Own_Mother_and_a_Stepmother/068.ogg"
+        }
+    },
+    {
+        "id": "069",
+        "title": "Slaves Toiling at Night",
+        "performer_full_info": "Liisu Orik Tõstamaa (1964)",
+        "performer_name": "Liisu Orik",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Liisu-Orik",
+        "region": "Tõstamaa",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/069-Oised-orjad",
+        "local_files": {
+            "lyrics_estonian": "data/069_Slaves_Toiling_at_Night/lyrics_estonian.txt",
+            "notation": "data/069_Slaves_Toiling_at_Night/069_notation.png",
+            "audio_mp3": "data/069_Slaves_Toiling_at_Night/069.mp3",
+            "lyrics_english": "data/069_Slaves_Toiling_at_Night/lyrics_english.txt",
+            "audio_ogg": "data/069_Slaves_Toiling_at_Night/069.ogg"
+        }
+    },
+    {
+        "id": "070",
+        "title": "The Serf's Work Week",
+        "performer_full_info": "Pauline Vapper Muhu (1958)",
+        "performer_name": "Pauline Vapper",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Pauline-Vapper",
+        "region": "Muhu",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/070-Teomehe-nadalapaevad",
+        "local_files": {
+            "lyrics_estonian": "data/070_The_Serf's_Work_Week/lyrics_estonian.txt",
+            "audio_ogg": "data/070_The_Serf's_Work_Week/070.ogg",
+            "notation": "data/070_The_Serf's_Work_Week/070_notation.png",
+            "audio_mp3": "data/070_The_Serf's_Work_Week/070.mp3",
+            "lyrics_english": "data/070_The_Serf's_Work_Week/lyrics_english.txt"
+        }
+    },
+    {
+        "id": "071",
+        "title": "Revenge on the Lords",
+        "performer_full_info": "Kadri Asu Kolga-Jaani (1937)",
+        "performer_name": "Kadri Asu",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Kadri-Asu",
+        "region": "Kolga-Jaani",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/071-Kattemaks-sakstele",
+        "local_files": {
+            "lyrics_estonian": "data/071_Revenge_on_the_Lords/lyrics_estonian.txt",
+            "audio_ogg": "data/071_Revenge_on_the_Lords/071.ogg",
+            "notation": "data/071_Revenge_on_the_Lords/071_notation.png",
+            "audio_mp3": "data/071_Revenge_on_the_Lords/071.mp3",
+            "lyrics_english": "data/071_Revenge_on_the_Lords/lyrics_english.txt"
+        }
+    },
+    {
+        "id": "072",
+        "title": "Hops",
+        "performer_full_info": "Kadri Asu Kolga-Jaani (1937)",
+        "performer_name": "Kadri Asu",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Kadri-Asu",
+        "region": "Kolga-Jaani",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/072-Humal",
+        "local_files": {
+            "lyrics_estonian": "data/072_Hops/lyrics_estonian.txt",
+            "audio_ogg": "data/072_Hops/072.ogg",
+            "notation": "data/072_Hops/072_notation.png",
+            "audio_mp3": "data/072_Hops/072.mp3",
+            "lyrics_english": "data/072_Hops/lyrics_english.txt"
+        }
+    },
+    {
+        "id": "073",
+        "title": "Wonders",
+        "performer_full_info": "Hindrek Tamm Jõelähtme (1937)",
+        "performer_name": "Hindrek Tamm",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Hindrek-Tamm",
+        "region": "Jõelähtme",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/073-Imed",
+        "local_files": {
+            "audio_ogg": "data/073_Wonders/073.ogg",
+            "lyrics_estonian": "data/073_Wonders/lyrics_estonian.txt",
+            "notation": "data/073_Wonders/073_notation.png",
+            "audio_mp3": "data/073_Wonders/073.mp3",
+            "lyrics_english": "data/073_Wonders/lyrics_english.txt"
+        }
+    },
+    {
+        "id": "074",
+        "title": "The Drunkard's Horse",
+        "performer_full_info": "Anna Lindvere Kodavere (1938)",
+        "performer_name": "Anna Lindvere",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Anna-Lindvere",
+        "region": "Kodavere",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/074-Joodiku-hobune",
+        "local_files": {
+            "lyrics_estonian": "data/074_The_Drunkard's_Horse/lyrics_estonian.txt",
+            "audio_ogg": "data/074_The_Drunkard's_Horse/074.ogg",
+            "audio_mp3": "data/074_The_Drunkard's_Horse/074.mp3",
+            "notation": "data/074_The_Drunkard's_Horse/074_notation.png",
+            "lyrics_english": "data/074_The_Drunkard's_Horse/lyrics_english.txt"
+        }
+    },
+    {
+        "id": "075",
+        "title": "The Fishing Lake",
+        "performer_full_info": "Anne Vabarna with choir, Setu (1936)",
+        "performer_name": "Anne Vabarna",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Anne-Vabarna",
+        "region": "with choir, Setu",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/075-Kalajarv",
+        "local_files": {
+            "lyrics_estonian": "data/075_The_Fishing_Lake/lyrics_estonian.txt",
+            "audio_ogg": "data/075_The_Fishing_Lake/075.ogg",
+            "notation": "data/075_The_Fishing_Lake/075_notation.png",
+            "audio_mp3": "data/075_The_Fishing_Lake/075.mp3",
+            "lyrics_english": "data/075_The_Fishing_Lake/lyrics_english.txt"
+        }
+    },
+    {
+        "id": "076",
+        "title": "Spring on the Field",
+        "performer_full_info": "Hindrek Tamm Jõelähtme (1937)",
+        "performer_name": "Hindrek Tamm",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Hindrek-Tamm",
+        "region": "Jõelähtme",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/076-Kevad-pollul",
+        "local_files": {
+            "lyrics_estonian": "data/076_Spring_on_the_Field/lyrics_estonian.txt",
+            "audio_ogg": "data/076_Spring_on_the_Field/076.ogg",
+            "notation": "data/076_Spring_on_the_Field/076_notation.png",
+            "audio_mp3": "data/076_Spring_on_the_Field/076.mp3",
+            "lyrics_english": "data/076_Spring_on_the_Field/lyrics_english.txt"
+        }
+    },
+    {
+        "id": "077",
+        "title": "Creation",
+        "performer_full_info": "Liisu Orik Tõstamaa (1965)",
+        "performer_name": "Liisu Orik",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Liisu-Orik",
+        "region": "Tõstamaa",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/077-Loomine",
+        "local_files": {
+            "lyrics_estonian": "data/077_Creation/lyrics_estonian.txt",
+            "audio_ogg": "data/077_Creation/077.ogg",
+            "notation": "data/077_Creation/077_notation.png",
+            "audio_mp3": "data/077_Creation/077.mp3",
+            "lyrics_english": "data/077_Creation/lyrics_english.txt"
+        }
+    },
+    {
+        "id": "078",
+        "title": "Seeking the Brush",
+        "performer_full_info": "Liis Alas Kihnu (1937)",
+        "performer_name": "Liis Alas",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Liis-Alas",
+        "region": "Kihnu",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/078-Harja-otsimine",
+        "local_files": {
+            "lyrics_estonian": "data/078_Seeking_the_Brush/lyrics_estonian.txt",
+            "audio_mp3": "data/078_Seeking_the_Brush/078.mp3",
+            "lyrics_english": "data/078_Seeking_the_Brush/lyrics_english.txt",
+            "audio_ogg": "data/078_Seeking_the_Brush/078.ogg",
+            "notation": "data/078_Seeking_the_Brush/078_notation.png"
+        }
+    },
+    {
+        "id": "079",
+        "title": "At Mother's Grave Side",
+        "performer_full_info": "Marie Sepp Kolga-Jaani (1937)",
+        "performer_name": "Marie Sepp",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Marie-Sepp",
+        "region": "Kolga-Jaani",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/079-Ema-haual",
+        "local_files": {
+            "lyrics_estonian": "data/079_At_Mother's_Grave_Side/lyrics_estonian.txt",
+            "audio_mp3": "data/079_At_Mother's_Grave_Side/079.mp3",
+            "lyrics_english": "data/079_At_Mother's_Grave_Side/lyrics_english.txt",
+            "audio_ogg": "data/079_At_Mother's_Grave_Side/079.ogg",
+            "notation": "data/079_At_Mother's_Grave_Side/079_notation.png"
+        }
+    },
+    {
+        "id": "080",
+        "title": "Just a Kiss",
+        "performer_full_info": "Juuli Ott Kolga-Jaani (1936)",
+        "performer_name": "Juuli Ott",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Juuli-Ott",
+        "region": "Kolga-Jaani",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/080-Suisa-suud",
+        "local_files": {
+            "lyrics_estonian": "data/080_Just_a_Kiss/lyrics_estonian.txt",
+            "audio_mp3": "data/080_Just_a_Kiss/080.mp3",
+            "lyrics_english": "data/080_Just_a_Kiss/lyrics_english.txt",
+            "audio_ogg": "data/080_Just_a_Kiss/080.ogg",
+            "notation": "data/080_Just_a_Kiss/080_notation.png"
+        }
+    },
+    {
+        "id": "081",
+        "title": "The Husband Slayer (The Song of Maie)",
+        "performer_full_info": "Greete Jents Karksi (1961)",
+        "performer_name": "Greete Jents",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Greete-Jents",
+        "region": "Karksi",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/081-Mehetapja-Maielaul",
+        "local_files": {
+            "lyrics_estonian": "data/081_The_Husband_Slayer_(The_Song_of_Maie)/lyrics_estonian.txt",
+            "audio_mp3": "data/081_The_Husband_Slayer_(The_Song_of_Maie)/081.mp3",
+            "lyrics_english": "data/081_The_Husband_Slayer_(The_Song_of_Maie)/lyrics_english.txt",
+            "notation": "data/081_The_Husband_Slayer_(The_Song_of_Maie)/081_notation.png",
+            "audio_ogg": "data/081_The_Husband_Slayer_(The_Song_of_Maie)/081.ogg"
+        }
+    },
+    {
+        "id": "082",
+        "title": "The Daughter Slayer",
+        "performer_full_info": "Liina Kaskmann Haljala (1937)",
+        "performer_name": "Liina Kaskmann",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Liina-Kaskmann",
+        "region": "Haljala",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/082-Tutarde-tapja",
+        "local_files": {
+            "lyrics_estonian": "data/082_The_Daughter_Slayer/lyrics_estonian.txt",
+            "notation": "data/082_The_Daughter_Slayer/082_notation.png",
+            "audio_mp3": "data/082_The_Daughter_Slayer/082.mp3",
+            "lyrics_english": "data/082_The_Daughter_Slayer/lyrics_english.txt",
+            "audio_ogg": "data/082_The_Daughter_Slayer/082.ogg"
+        }
+    },
+    {
+        "id": "083",
+        "title": "The Drunkard is Called back Home",
+        "performer_full_info": "Minna Kokk Hargla (1957)",
+        "performer_name": "Minna Kokk",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Minna-Kokk",
+        "region": "Hargla",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/083-Joodiku-kojukutse",
+        "local_files": {
+            "lyrics_estonian": "data/083_The_Drunkard_is_Called_back_Home/lyrics_estonian.txt",
+            "notation": "data/083_The_Drunkard_is_Called_back_Home/083_notation.png",
+            "audio_mp3": "data/083_The_Drunkard_is_Called_back_Home/083.mp3",
+            "lyrics_english": "data/083_The_Drunkard_is_Called_back_Home/lyrics_english.txt",
+            "audio_ogg": "data/083_The_Drunkard_is_Called_back_Home/083.ogg"
+        }
+    },
+    {
+        "id": "084",
+        "title": "The Lost Geese",
+        "performer_full_info": "Kadri Kukk Karksi (1960)",
+        "performer_name": "Kadri Kukk",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Kadri-Kukk",
+        "region": "Karksi",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/084-Haned-kadunud",
+        "local_files": {
+            "lyrics_estonian": "data/084_The_Lost_Geese/lyrics_estonian.txt",
+            "notation": "data/084_The_Lost_Geese/084_notation.png",
+            "audio_mp3": "data/084_The_Lost_Geese/084.mp3",
+            "lyrics_english": "data/084_The_Lost_Geese/lyrics_english.txt",
+            "audio_ogg": "data/084_The_Lost_Geese/084.ogg"
+        }
+    },
+    {
+        "id": "085",
+        "title": "The Brother's War Tale",
+        "performer_full_info": "Kadri Asu Kolga-Jaani (1937)",
+        "performer_name": "Kadri Asu",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Kadri-Asu",
+        "region": "Kolga-Jaani",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/085-Venna-sojalugu",
+        "local_files": {
+            "lyrics_estonian": "data/085_The_Brother's_War_Tale/lyrics_estonian.txt",
+            "notation": "data/085_The_Brother's_War_Tale/085_notation.png",
+            "audio_mp3": "data/085_The_Brother's_War_Tale/085.mp3",
+            "audio_ogg": "data/085_The_Brother's_War_Tale/085.ogg",
+            "lyrics_english": "data/085_The_Brother's_War_Tale/lyrics_english.txt"
+        }
+    },
+    {
+        "id": "086",
+        "title": "Flight of the Recruit",
+        "performer_full_info": "Hindrek Tamm Jõelähtme (1937)",
+        "performer_name": "Hindrek Tamm",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Hindrek-Tamm",
+        "region": "Jõelähtme",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/086-Nekruti-pogenemine",
+        "local_files": {
+            "lyrics_estonian": "data/086_Flight_of_the_Recruit/lyrics_estonian.txt",
+            "audio_mp3": "data/086_Flight_of_the_Recruit/086.mp3",
+            "lyrics_english": "data/086_Flight_of_the_Recruit/lyrics_english.txt",
+            "audio_ogg": "data/086_Flight_of_the_Recruit/086.ogg",
+            "notation": "data/086_Flight_of_the_Recruit/086_notation.png"
+        }
+    },
+    {
+        "id": "087",
+        "title": "The Taskmaster and the Serf",
+        "performer_full_info": "Anna Lindvere Kodavere (1938)",
+        "performer_name": "Anna Lindvere",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Anna-Lindvere",
+        "region": "Kodavere",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/087-Kubjas-ja-teomees",
+        "local_files": {
+            "lyrics_estonian": "data/087_The_Taskmaster_and_the_Serf/lyrics_estonian.txt",
+            "audio_mp3": "data/087_The_Taskmaster_and_the_Serf/087.mp3",
+            "lyrics_english": "data/087_The_Taskmaster_and_the_Serf/lyrics_english.txt",
+            "audio_ogg": "data/087_The_Taskmaster_and_the_Serf/087.ogg",
+            "notation": "data/087_The_Taskmaster_and_the_Serf/087_notation.png"
+        }
+    },
+    {
+        "id": "088",
+        "title": "Sash Weaving",
+        "performer_full_info": "Anne Vabarna with choir, Setu (1936)",
+        "performer_name": "Anne Vabarna",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Anne-Vabarna",
+        "region": "with choir, Setu",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/088-Vookudumine",
+        "local_files": {
+            "lyrics_estonian": "data/088_Sash_Weaving/lyrics_estonian.txt",
+            "audio_ogg": "data/088_Sash_Weaving/088.ogg",
+            "notation": "data/088_Sash_Weaving/088_notation.png",
+            "audio_mp3": "data/088_Sash_Weaving/088.mp3",
+            "lyrics_english": "data/088_Sash_Weaving/lyrics_english.txt"
+        }
+    },
+    {
+        "id": "089",
+        "title": "The Grinding Stone",
+        "performer_full_info": "Anne Vabarna with choir, Setu (1936)",
+        "performer_name": "Anne Vabarna",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Anne-Vabarna",
+        "region": "with choir, Setu",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/089-Kasikivi",
+        "local_files": {
+            "lyrics_estonian": "data/089_The_Grinding_Stone/lyrics_estonian.txt",
+            "audio_ogg": "data/089_The_Grinding_Stone/089.ogg",
+            "notation": "data/089_The_Grinding_Stone/089_notation.png",
+            "audio_mp3": "data/089_The_Grinding_Stone/089.mp3",
+            "lyrics_english": "data/089_The_Grinding_Stone/lyrics_english.txt"
+        }
+    },
+    {
+        "id": "090",
+        "title": "The Ship Game",
+        "performer_full_info": "Mari Kilu Jõelähtme (1936)",
+        "performer_name": "Mari Kilu",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Mari-Kilu",
+        "region": "Jõelähtme",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/090-Laevamang",
+        "local_files": {
+            "lyrics_estonian": "data/090_The_Ship_Game/lyrics_estonian.txt",
+            "notation": "data/090_The_Ship_Game/090_notation.png",
+            "audio_mp3": "data/090_The_Ship_Game/090.mp3",
+            "lyrics_english": "data/090_The_Ship_Game/lyrics_english.txt",
+            "audio_ogg": "data/090_The_Ship_Game/090.ogg"
+        }
+    },
+    {
+        "id": "091",
+        "title": "The Horse Game",
+        "performer_full_info": "Helmi Vill Urvaste (1965)",
+        "performer_name": "Helmi Vill",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Helmi-Vill",
+        "region": "Urvaste",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/091-Hobusemang",
+        "local_files": {
+            "lyrics_estonian": "data/091_The_Horse_Game/lyrics_estonian.txt",
+            "notation": "data/091_The_Horse_Game/091_notation.png",
+            "audio_mp3": "data/091_The_Horse_Game/091.mp3",
+            "audio_ogg": "data/091_The_Horse_Game/091.ogg",
+            "lyrics_english": "data/091_The_Horse_Game/lyrics_english.txt"
+        }
+    },
+    {
+        "id": "092",
+        "title": "The Hawk Game",
+        "performer_full_info": "Liisa Kümmel Tori (1961)",
+        "performer_name": "Liisa Kümmel",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Liisa-Kummel",
+        "region": "Tori",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/092-Kullimang",
+        "local_files": {
+            "lyrics_estonian": "data/092_The_Hawk_Game/lyrics_estonian.txt",
+            "audio_mp3": "data/092_The_Hawk_Game/092.mp3",
+            "lyrics_english": "data/092_The_Hawk_Game/lyrics_english.txt",
+            "audio_ogg": "data/092_The_Hawk_Game/092.ogg",
+            "notation": "data/092_The_Hawk_Game/092_notation.png"
+        }
+    },
+    {
+        "id": "093",
+        "title": "The Doll Game",
+        "performer_full_info": "Mari Sarv Karksi (1960)",
+        "performer_name": "Mari Sarv",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Mari-Sarv",
+        "region": "Karksi",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/093-Nukumang",
+        "local_files": {
+            "lyrics_estonian": "data/093_The_Doll_Game/lyrics_estonian.txt",
+            "audio_mp3": "data/093_The_Doll_Game/093.mp3",
+            "lyrics_english": "data/093_The_Doll_Game/lyrics_english.txt",
+            "notation": "data/093_The_Doll_Game/093_notation.png",
+            "audio_ogg": "data/093_The_Doll_Game/093.ogg"
+        }
+    },
+    {
+        "id": "094",
+        "title": "The King Game",
+        "performer_full_info": "Liisa Kümmel Tori (1961)",
+        "performer_name": "Liisa Kümmel",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Liisa-Kummel",
+        "region": "Tori",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/094-Kuningamang",
+        "local_files": {
+            "lyrics_estonian": "data/094_The_King_Game/lyrics_estonian.txt",
+            "audio_mp3": "data/094_The_King_Game/094.mp3",
+            "lyrics_english": "data/094_The_King_Game/lyrics_english.txt",
+            "notation": "data/094_The_King_Game/094_notation.png",
+            "audio_ogg": "data/094_The_King_Game/094.ogg"
+        }
+    },
+    {
+        "id": "095",
+        "title": "The Minstrel Game",
+        "performer_full_info": "Helmi Vill Urvaste (1965)",
+        "performer_name": "Helmi Vill",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Helmi-Vill",
+        "region": "Urvaste",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/095-Leigarimang",
+        "local_files": {
+            "lyrics_estonian": "data/095_The_Minstrel_Game/lyrics_estonian.txt",
+            "audio_mp3": "data/095_The_Minstrel_Game/095.mp3",
+            "lyrics_english": "data/095_The_Minstrel_Game/lyrics_english.txt",
+            "notation": "data/095_The_Minstrel_Game/095_notation.png",
+            "audio_ogg": "data/095_The_Minstrel_Game/095.ogg"
+        }
+    },
+    {
+        "id": "096",
+        "title": "The Goose Game",
+        "performer_full_info": "Mari Kilu Jõelähtme (1936)",
+        "performer_name": "Mari Kilu",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Mari-Kilu",
+        "region": "Jõelähtme",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/096-Hanemang",
+        "local_files": {
+            "lyrics_estonian": "data/096_The_Goose_Game/lyrics_estonian.txt",
+            "notation": "data/096_The_Goose_Game/096_notation.png",
+            "audio_mp3": "data/096_The_Goose_Game/096.mp3",
+            "lyrics_english": "data/096_The_Goose_Game/lyrics_english.txt",
+            "audio_ogg": "data/096_The_Goose_Game/096.ogg"
+        }
+    },
+    {
+        "id": "097",
+        "title": "The Gate Game",
+        "performer_full_info": "Helene Kukk Sangaste (1962)",
+        "performer_name": "Helene Kukk",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Helene-Kukk",
+        "region": "Sangaste",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/097-Varavamang",
+        "local_files": {
+            "lyrics_estonian": "data/097_The_Gate_Game/lyrics_estonian.txt",
+            "notation": "data/097_The_Gate_Game/097_notation.png",
+            "audio_mp3": "data/097_The_Gate_Game/097.mp3",
+            "lyrics_english": "data/097_The_Gate_Game/lyrics_english.txt",
+            "audio_ogg": "data/097_The_Gate_Game/097.ogg"
+        }
+    },
+    {
+        "id": "098",
+        "title": "The Finger Binding Game",
+        "performer_full_info": "Helene Kukk Sangaste (1962)",
+        "performer_name": "Helene Kukk",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Helene-Kukk",
+        "region": "Sangaste",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/098-Sormemahkimismang",
+        "local_files": {
+            "audio_ogg": "data/098_The_Finger_Binding_Game/098.ogg",
+            "lyrics_estonian": "data/098_The_Finger_Binding_Game/lyrics_estonian.txt",
+            "notation": "data/098_The_Finger_Binding_Game/098_notation.png",
+            "audio_mp3": "data/098_The_Finger_Binding_Game/098.mp3",
+            "lyrics_english": "data/098_The_Finger_Binding_Game/lyrics_english.txt"
+        }
+    },
+    {
+        "id": "099",
+        "title": "Buckhorn: “Off to Eat”",
+        "performer_full_info": "Jukk Akermann Karula (1912)",
+        "performer_name": "Jukk Akermann",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Jukk-Akermann",
+        "region": "Karula",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/099-Sokusarv-Soomamineki-tukk",
+        "local_files": {
+            "audio_ogg": "data/099_Buckhorn_“Off_to_Eat”/099.ogg",
+            "notation": "data/099_Buckhorn_“Off_to_Eat”/099_notation.png",
+            "audio_mp3": "data/099_Buckhorn_“Off_to_Eat”/099.mp3"
+        }
+    },
+    {
+        "id": "100",
+        "title": "Herder's horn",
+        "performer_full_info": "Nikita Vassil Setu (1913)",
+        "performer_name": "Nikita Vassil",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Nikita-Vassil",
+        "region": "Setu",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/100-Karjapasun",
+        "local_files": {
+            "audio_ogg": "data/100_Herder's_horn/100.ogg",
+            "notation": "data/100_Herder's_horn/100_notation.png",
+            "audio_mp3": "data/100_Herder's_horn/100.mp3"
+        }
+    },
+    {
+        "id": "101",
+        "title": "Alderwood horn",
+        "performer_full_info": "Mihkel Tiitus Tori (1965)",
+        "performer_name": "Mihkel Tiitus",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Mihkel-Tiitus",
+        "region": "Tori",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/101-Lepapasun",
+        "local_files": {
+            "audio_ogg": "data/101_Alderwood_horn/101.ogg",
+            "notation": "data/101_Alderwood_horn/101_notation.png",
+            "audio_mp3": "data/101_Alderwood_horn/101.mp3"
+        }
+    },
+    {
+        "id": "102",
+        "title": "Duct flute: “David's Polka”",
+        "performer_full_info": "Ruuben Kesler Jõhvi (1938)",
+        "performer_name": "Ruuben Kesler",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Ruuben-Kesler",
+        "region": "Jõhvi",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/102-Vilepill-Taaveti-polka",
+        "local_files": {
+            "audio_ogg": "data/102_Duct_flute_“David's_Polka”/102.ogg",
+            "audio_mp3": "data/102_Duct_flute_“David's_Polka”/102.mp3",
+            "notation": "data/102_Duct_flute_“David's_Polka”/102_notation.png"
+        }
+    },
+    {
+        "id": "103",
+        "title": "Reed pipe with horn",
+        "performer_full_info": "Sido Nikit Setu (1913)",
+        "performer_name": "Sido Nikit",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Sido-Nikit",
+        "region": "Setu",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/103-Sarvepill",
+        "local_files": {
+            "audio_ogg": "data/103_Reed_pipe_with_horn/103.ogg",
+            "audio_mp3": "data/103_Reed_pipe_with_horn/103.mp3",
+            "notation": "data/103_Reed_pipe_with_horn/103_notation.png"
+        }
+    },
+    {
+        "id": "104",
+        "title": "Reed pipe: “Juss the Piper's Waltz Tune”",
+        "performer_full_info": "Aleksander Maaker Emmaste (1938)",
+        "performer_name": "Aleksander Maaker",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Aleksander-Maaker",
+        "region": "Emmaste",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/104-Sormiline-roopill-Torupilli-Jussi-labajalg",
+        "local_files": {
+            "audio_ogg": "data/104_Reed_pipe_“Juss_the_Piper's_Waltz_Tune”/104.ogg",
+            "notation": "data/104_Reed_pipe_“Juss_the_Piper's_Waltz_Tune”/104_notation.png",
+            "audio_mp3": "data/104_Reed_pipe_“Juss_the_Piper's_Waltz_Tune”/104.mp3"
+        }
+    },
+    {
+        "id": "105",
+        "title": "Bagpipe: “Kerchief Dance”",
+        "performer_full_info": "Jaagup Kilström Kuusalu (1936)",
+        "performer_name": "Jaagup Kilström",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Jaagup-Kilstrom",
+        "region": "Kuusalu",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/105-Torupill-Raditants",
+        "local_files": {
+            "audio_ogg": "data/105_Bagpipe_“Kerchief_Dance”/105.ogg",
+            "notation": "data/105_Bagpipe_“Kerchief_Dance”/105_notation.png",
+            "audio_mp3": "data/105_Bagpipe_“Kerchief_Dance”/105.mp3"
+        }
+    },
+    {
+        "id": "106",
+        "title": "Jew's harp: “Rand's Waltz Tune”",
+        "performer_full_info": "Jaan Rand Kirbla (1937)",
+        "performer_name": "Jaan Rand",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Jaan-Rand",
+        "region": "Kirbla",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/106-Parmupill-Ranna-labajalg",
+        "local_files": {
+            "audio_ogg": "data/106_Jew's_harp_“Rand's_Waltz_Tune”/106.ogg",
+            "notation": "data/106_Jew's_harp_“Rand's_Waltz_Tune”/106_notation.png",
+            "audio_mp3": "data/106_Jew's_harp_“Rand's_Waltz_Tune”/106.mp3"
+        }
+    },
+    {
+        "id": "107",
+        "title": "Bowed harp: “The Wolf on the Other Side of the Bog” (Estonian waltz)",
+        "performer_full_info": "Mart Kaasen Lääne-Nigula (1936)",
+        "performer_name": "Mart Kaasen",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Mart-Kaasen",
+        "region": "Lääne-Nigula",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/107-Hiiu-kannel-Hunt-soo-taga-labajalg",
+        "local_files": {
+            "audio_ogg": "data/107_Bowed_harp_“The_Wolf_on_the_Other_Side_of_the_Bog”_(Estonian_waltz)/107.ogg",
+            "notation": "data/107_Bowed_harp_“The_Wolf_on_the_Other_Side_of_the_Bog”_(Estonian_waltz)/107_notation.png",
+            "audio_mp3": "data/107_Bowed_harp_“The_Wolf_on_the_Other_Side_of_the_Bog”_(Estonian_waltz)/107.mp3"
+        }
+    },
+    {
+        "id": "108",
+        "title": "Violin duet: “Tune from Harju County” (Estonian waltz)",
+        "performer_full_info": "Mart Männimets and Mihkel Toom Tori (1936)",
+        "performer_name": "Mart Männimets",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Mart-Mannimets",
+        "region": "and",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/108-Viiuli-duett-Harju-loss-labajalg",
+        "local_files": {
+            "audio_mp3": "data/108_Violin_duet_“Tune_from_Harju_County”_(Estonian_waltz)/108.mp3",
+            "audio_ogg": "data/108_Violin_duet_“Tune_from_Harju_County”_(Estonian_waltz)/108.ogg",
+            "notation": "data/108_Violin_duet_“Tune_from_Harju_County”_(Estonian_waltz)/108_notation.png"
+        }
+    },
+    {
+        "id": "109",
+        "title": "Violin duet: “Polka”",
+        "performer_full_info": "Mart Männimets and Mihkel Toom Tori (1936)",
+        "performer_name": "Mart Männimets",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Mart-Mannimets",
+        "region": "and",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/109-Viiuli-duett-Polka",
+        "local_files": {
+            "audio_mp3": "data/109_Violin_duet_“Polka”/109.mp3",
+            "notation": "data/109_Violin_duet_“Polka”/109_notation.png",
+            "audio_ogg": "data/109_Violin_duet_“Polka”/109.ogg"
+        }
+    },
+    {
+        "id": "110",
+        "title": "Violin duet: “Vir-ver-vidis” (polka)",
+        "performer_full_info": "Kristjan Joakit and Otto Hiiop Urvaste (1937)",
+        "performer_name": "Kristjan Joakit",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Kristjan-Joakit",
+        "region": "and",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/110-Viiuli-duett-Vir-ver-vidis-polka",
+        "local_files": {
+            "audio_ogg": "data/110_Violin_duet_“Vir-ver-vidis”_(polka)/110.ogg",
+            "notation": "data/110_Violin_duet_“Vir-ver-vidis”_(polka)/110_notation.png",
+            "audio_mp3": "data/110_Violin_duet_“Vir-ver-vidis”_(polka)/110.mp3"
+        }
+    },
+    {
+        "id": "111",
+        "title": "Estonian psaltery: “A Mouse Hopped”",
+        "performer_full_info": "Joosep Kotkas Tartu-Maarja (1936)",
+        "performer_name": "Joosep Kotkas",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Joosep-Kotkas",
+        "region": "Tartu-Maarja",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/111-Kannel-Hiir-huppas",
+        "local_files": {
+            "audio_ogg": "data/111_Estonian_psaltery_“A_Mouse_Hopped”/111.ogg",
+            "audio_mp3": "data/111_Estonian_psaltery_“A_Mouse_Hopped”/111.mp3",
+            "notation": "data/111_Estonian_psaltery_“A_Mouse_Hopped”/111_notation.png"
+        }
+    },
+    {
+        "id": "112",
+        "title": "Estonian psaltery: “Jog”",
+        "performer_full_info": "Jaak Kõdar Halliste (1961)",
+        "performer_name": "Jaak Kõdar",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Jaak-Kodar",
+        "region": "Halliste",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/112-Kannel-Sork",
+        "local_files": {
+            "audio_ogg": "data/112_Estonian_psaltery_“Jog”/112.ogg",
+            "notation": "data/112_Estonian_psaltery_“Jog”/112_notation.png",
+            "audio_mp3": "data/112_Estonian_psaltery_“Jog”/112.mp3"
+        }
+    },
+    {
+        "id": "113",
+        "title": "Estonian psaltery and leaf instrument: “Building Bee Polka”",
+        "performer_full_info": "Oskar Visnapuu Kanepi (1965)",
+        "performer_name": "Oskar Visnapuu",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-Oskar-Visnapuu",
+        "region": "Kanepi",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/113-Kannel-ja-lehepill-Talgupolka",
+        "local_files": {
+            "audio_ogg": "data/113_Estonian_psaltery_and_leaf_instrument_“Building_Bee_Polka”/113.ogg",
+            "notation": "data/113_Estonian_psaltery_and_leaf_instrument_“Building_Bee_Polka”/113_notation.png",
+            "audio_mp3": "data/113_Estonian_psaltery_and_leaf_instrument_“Building_Bee_Polka”/113.mp3"
+        }
+    },
+    {
+        "id": "114",
+        "title": "Estonian accordion: “An Old Polka from the Village of Loosu”",
+        "performer_full_info": "August Teppo Põlva (1956)",
+        "performer_name": "August Teppo",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-August-Teppo",
+        "region": "Põlva",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/114-Lootspill-Vana-Loosu-kula-polka",
+        "local_files": {
+            "audio_ogg": "data/114_Estonian_accordion_“An_Old_Polka_from_the_Village_of_Loosu”/114.ogg",
+            "notation": "data/114_Estonian_accordion_“An_Old_Polka_from_the_Village_of_Loosu”/114_notation.png",
+            "audio_mp3": "data/114_Estonian_accordion_“An_Old_Polka_from_the_Village_of_Loosu”/114.mp3"
+        }
+    },
+    {
+        "id": "115",
+        "title": "Village band: “Wedding Polka”",
+        "performer_full_info": "August Müürsepp (1 st violin), Osvald Viin (2 nd violin), Kindlus Viin (chord psaltery) ja August Tina (mandola), Kanepi (1966).",
+        "performer_name": "August Müürsepp",
+        "performer_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/Performer-August-Muursepp",
+        "region": "",
+        "original_url": "https://www.folklore.ee/pubte/eraamat/rahvamuusika/en/115-Kulakapell-Pulmapolka",
+        "local_files": {
+            "audio_ogg": "data/115_Village_band_“Wedding_Polka”/115.ogg",
+            "notation": "data/115_Village_band_“Wedding_Polka”/115_notation.png",
+            "audio_mp3": "data/115_Village_band_“Wedding_Polka”/115.mp3"
+        }
+    }
+]
